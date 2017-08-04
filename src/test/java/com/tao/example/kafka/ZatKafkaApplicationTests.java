@@ -11,6 +11,16 @@ public class ZatKafkaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		int a=0;
+		switch (a){
+			case 0:
+				System.out.println("**");
+			case 1:
+				System.out.println("kkk");
+			case 3:
+
+
+		}
 	}
 
 }
